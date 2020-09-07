@@ -1,7 +1,3 @@
----
-tags: WebAHead
----
-
 # Practice DOM
 
 In this workshop we will use some of the most important DOM methods.
