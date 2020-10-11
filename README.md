@@ -13,7 +13,7 @@ In this workshop we will use some of the most important DOM methods.
 In this task we have button that we are going to use to hide and show the paragraph in the page (use [The odin project](https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation) as reference).
 
 - Using `addEventListener` add a `click` event to the button, so when it's clicked it would console log 'Hello DOM' in the browsers's console.
-- Then using the style attribute (`element.style.color`) hide the text, and show it again after it was hidden.
+- Then using the style attribute (for example `element.style.color` and `element.style.display`) hide the text, and show it again after it was hidden.
 
 ![](https://user-images.githubusercontent.com/24195641/92003022-32dd9780-ed49-11ea-94a2-d39eaeee161f.gif)
 
